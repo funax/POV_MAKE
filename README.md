@@ -1,3 +1,3 @@
 # POV_MAKE
 
-A small POV (Persistent Of Vision) demo for Pimoroni's Blinkt LED module on Raspberry Pi.
+A small POV (Persistence Of Vision) demo for Pimoroni's Blinkt LED module on Raspberry Pi.
